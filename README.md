@@ -69,11 +69,11 @@ This project provides a comprehensive analysis of Dogecoin (DOGE), focusing on h
 
 **4. Predictive Modeling:**
 
- **Traditional ML**
+ **Traditional ML:**
 - Random Forest Regressor
 - XGBoost Regressor
 
-**Deep Learning**
+**Deep Learning:**
 - LSTM (Long Short-Term Memory)
 
 **5. Model Evaluation:**
