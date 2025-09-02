@@ -1,11 +1,13 @@
 # Dogecoin Cryptocurrency Analysis
 
-📖 **Project Overview**
+📖 **Project Overview:**
+
 This project provides a comprehensive analysis of Dogecoin (DOGE), focusing on historical price trends, volatility patterns, and predictive modeling using both traditional machine learning and deep learning approaches.  
 
 ---
 
-🎯 **Project Objectives**
+🎯 **Project Objectives:**
+
 Collect and preprocess historical Dogecoin price data
 
 Perform exploratory data analysis to identify trends and patterns
@@ -18,7 +20,7 @@ Evaluate model performance using appropriate metrics
 
 ---
 
-📊 **Data Sources**
+📊 **Data Sources:**
 
 Price Data: Historical OHLCV (Open, High, Low, Close, Volume) data for Dogecoin, Bitcoin, and Ethereum from Yahoo Finance 
 
@@ -26,7 +28,7 @@ Technical Indicators: Calculated from price data (moving averages,trading volume
 
 ---
 
-🛠️ **Technical Stack**
+🛠️ **Technical Stack:**
 
 Programming Language: Python 
 
@@ -42,7 +44,7 @@ Data Collection: yfinance
 
 ---
 
-📈 **Project Workflow**
+📈 **Project Workflow:**
 
 Data Collection
 Price Data: Yahoo Finance for DOGE, BTC, ETH historical OHLCV
