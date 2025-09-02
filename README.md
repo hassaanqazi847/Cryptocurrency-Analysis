@@ -77,11 +77,10 @@ This project provides a comprehensive analysis of Dogecoin (DOGE), focusing on h
 - LSTM (Long Short-Term Memory)
 
 **5. Model Evaluation:**
-Validation: Time-series cross-validation
 
-Metrics: RMSE, MAE, MAPE, R² score
+- **Metrics:** RMSE, MAE, MAPE, R² score
 
-Performance Comparison: ML vs. DL models
+- **Performance Comparison:** ML vs. DL models
 
 ---
 
