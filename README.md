@@ -87,7 +87,7 @@ Performance Comparison: ML vs. DL models
 
 🎯 **Real-World Applications:**
 
-= Algorithmic Trading Systems: 
+- Algorithmic Trading Systems: 
 
 Integrate predictive models into automated trading bots that execute trades based on price forecasts and sentiment signals for improved returns
 
