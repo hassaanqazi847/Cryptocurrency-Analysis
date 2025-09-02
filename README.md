@@ -46,7 +46,7 @@ Data Collection: yfinance
 
 📈 **Project Workflow:**
 
-1. Data Collection
+1.- Data Collection
 
 Price Data: Yahoo Finance for DOGE, BTC, ETH historical OHLCV
 
@@ -90,13 +90,13 @@ Performance Comparison: ML vs. DL models
 - Algorithmic Trading Systems: 
    Integrate predictive models into automated trading bots that execute trades based on price forecasts and sentiment signals for improved returns
 
-- Investment Portfolio Management 
+- Investment Portfolio Management: 
     Enable better risk assessment and portfolio diversification strategies by analyzing Dogecoin's volatility and correlation with other cryptocurrencies
 
-- Retail Trading Tools 
+- Retail Trading Tools: 
        Power mobile applications and dashboards that provide retail investors with data-driven buy/sell signals and risk management insights
 
-- Financial Products Development 
+- Financial Products Development: 
       Support creation of Dogecoin-based financial instruments like derivatives, ETFs, and lending protocols by providing accurate volatility and price forecasting models
 
 
