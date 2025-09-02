@@ -22,9 +22,9 @@ This project provides a comprehensive analysis of Dogecoin (DOGE), focusing on h
 
 📊 **Data Sources:**
 
-Price Data: Historical OHLCV (Open, High, Low, Close, Volume) data for Dogecoin, Bitcoin, and Ethereum from Yahoo Finance 
+- **Price Data:** Historical OHLCV (Open, High, Low, Close, Volume) data for Dogecoin, Bitcoin, and Ethereum from Yahoo Finance 
 
-Technical Indicators: Calculated from price data (moving averages,trading volumes,volatility and daily returns etc.)
+- **Technical Indicators:** Calculated from price data (moving averages,trading volumes,volatility and daily returns etc.)
 
 ---
 
