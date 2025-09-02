@@ -16,11 +16,15 @@ Compare Dogecoin's performance against major cryptocurrencies (Bitcoin and Ether
 
 Evaluate model performance using appropriate metrics
 
+---
+
 📊 **Data Sources**
 
 Price Data: Historical OHLCV (Open, High, Low, Close, Volume) data for Dogecoin, Bitcoin, and Ethereum from Yahoo Finance 
 
 Technical Indicators: Calculated from price data (moving averages,trading volumes,volatility and daily returns etc.)
+
+---
 
 🛠️ **Technical Stack**
 
@@ -35,6 +39,8 @@ Machine Learning: Scikit-learn, XGBoost, Random forest
 Deep Learning: TensorFlow, Keras (LSTM)
 
 Data Collection: yfinance
+
+---
 
 📈 **Project Workflow**
 
