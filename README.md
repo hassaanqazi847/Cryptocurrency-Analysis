@@ -88,19 +88,15 @@ Performance Comparison: ML vs. DL models
 🎯 **Real-World Applications:**
 
 - Algorithmic Trading Systems:
- 
-   Integrate predictive models into automated trading bots that execute trades based on price forecasts and sentiment signals for improved returns
+        Integrate predictive models into automated trading bots that execute trades based on price forecasts and sentiment signals for improved returns
 
 - Investment Portfolio Management:
- 
-    Enable better risk assessment and portfolio diversification strategies by analyzing Dogecoin's volatility and correlation with other cryptocurrencies
+        Enable better risk assessment and portfolio diversification strategies by analyzing Dogecoin's volatility and correlation with other cryptocurrencies
 
 - Retail Trading Tools:
- 
-       Power mobile applications and dashboards that provide retail investors with data-driven buy/sell signals and risk management insights
+        Power mobile applications and dashboards that provide retail investors with data-driven buy/sell signals and risk management insights
 
 - Financial Products Development:
- 
-      Support creation of Dogecoin-based financial instruments like derivatives, ETFs, and lending protocols by providing accurate volatility and price forecasting models
+        Support creation of Dogecoin-based financial instruments like derivatives, ETFs, and lending protocols by providing accurate volatility and price forecasting models
 
 
