@@ -3,6 +3,7 @@
 📖 **Project Overview**
 This project provides a comprehensive analysis of Dogecoin (DOGE), focusing on historical price trends, volatility patterns, and predictive modeling using both traditional machine learning and deep learning approaches.  
 
+---
 
 🎯 **Project Objectives**
 Collect and preprocess historical Dogecoin price data
