@@ -30,17 +30,17 @@ This project provides a comprehensive analysis of Dogecoin (DOGE), focusing on h
 
 🛠️ **Technical Stack:**
 
-Programming Language: Python 
+- **Programming Language:** Python 
 
-Data Processing: Pandas, NumPy
+- **Data Processing:** Pandas, NumPy
 
-Visualization: Matplotlib
+- **Visualization:** Matplotlib
 
-Machine Learning: Scikit-learn, XGBoost, Random forest
+- **Machine Learning:** Scikit-learn, XGBoost, Random forest
 
-Deep Learning: TensorFlow, Keras (LSTM)
+- **Deep Learning:** TensorFlow, Keras (LSTM)
 
-Data Collection: yfinance
+- **Data Collection:** yfinance
 
 ---
 
