@@ -46,17 +46,17 @@ Data Collection: yfinance
 
 📈 **Project Workflow:**
 
-1.- Data Collection
+**1. Data Collection:**
 
 Price Data: Yahoo Finance for DOGE, BTC, ETH historical OHLCV
 
 Compilation: Combined price, volume, and market cap.
 
-2. Data Preprocessing
+**2. Data Preprocessing**
 
 Calculations: Daily returns and volatility metrics
 
-3. Exploratory Data Analysis (EDA)
+**3. Exploratory Data Analysis (EDA)**
 Visualization: Price movements and trading volumes
 
 Trend Analysis: 7-day and 30-day moving averages
@@ -67,7 +67,7 @@ Comparative Analysis: DOGE vs. BTC and ETH performance
 
 Correlation Analysis: Inter-cryptocurrency relationships
 
-5. Predictive Modeling
+**4. Predictive Modeling**
 Traditional ML
 Random Forest Regressor
 
@@ -76,7 +76,7 @@ XGBoost Regressor
 Deep Learning
 LSTM (Long Short-Term Memory)
 
-6. Model Evaluation
+**5. Model Evaluation**
 Validation: Time-series cross-validation
 
 Metrics: RMSE, MAE, MAPE, R² score
