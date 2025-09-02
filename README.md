@@ -8,15 +8,15 @@ This project provides a comprehensive analysis of Dogecoin (DOGE), focusing on h
 
 🎯 **Project Objectives:**
 
-Collect and preprocess historical Dogecoin price data
+- Collect and preprocess historical Dogecoin price data
 
-Perform exploratory data analysis to identify trends and patterns
+- Perform exploratory data analysis to identify trends and patterns
 
-Develop predictive models for short-term price forecasting
+- Develop predictive models for short-term price forecasting
 
-Compare Dogecoin's performance against major cryptocurrencies (Bitcoin and Ethereum)
+- Compare Dogecoin's performance against major cryptocurrencies (Bitcoin and Ethereum)
 
-Evaluate model performance using appropriate metrics
+- Evaluate model performance using appropriate metrics
 
 ---
 
