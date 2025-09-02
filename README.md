@@ -52,11 +52,11 @@ Data Collection: yfinance
 
 - Compilation: Combined price, volume, and market cap.
 
-**2. Data Preprocessing**
+**2. Data Preprocessing:**
 
 - Calculations: Daily returns and volatility metrics
 
-**3. Exploratory Data Analysis (EDA)**
+**3. Exploratory Data Analysis (EDA):**
 - Visualization: Price movements and trading volumes
 
 - Trend Analysis: 7-day and 30-day moving averages
@@ -67,7 +67,8 @@ Data Collection: yfinance
 
 - Correlation Analysis: Inter-cryptocurrency relationships
 
-**4. Predictive Modeling**
+**4. Predictive Modeling:**
+
  **Traditional ML**
 - Random Forest Regressor
 - XGBoost Regressor
@@ -75,7 +76,7 @@ Data Collection: yfinance
 **Deep Learning**
 - LSTM (Long Short-Term Memory)
 
-**5. Model Evaluation**
+**5. Model Evaluation:**
 Validation: Time-series cross-validation
 
 Metrics: RMSE, MAE, MAPE, R² score
