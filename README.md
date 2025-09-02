@@ -46,7 +46,8 @@ Data Collection: yfinance
 
 📈 **Project Workflow:**
 
-Data Collection
+1. Data Collection
+
 Price Data: Yahoo Finance for DOGE, BTC, ETH historical OHLCV
 
 Compilation: Combined price, volume, and market cap.
